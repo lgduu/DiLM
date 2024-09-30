@@ -12,7 +12,7 @@ from generator import GeneratorModel
 from .herding import herding
 from .k_centers import k_centers
 from .random import random_selection
-from .rank_dilm import rank_with_dilm
+from .rank_text_gtn import rank_with_dilm
 
 logger = logging.getLogger(__name__)
 
